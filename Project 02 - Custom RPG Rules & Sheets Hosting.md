@@ -9,11 +9,10 @@ Les règles du jeu ont été rédigées par mes soins et, même si elles intègr
 Je suis bien conscient que ce projet pourrait poser, une fois de plus, des problèmes de droits, mais si l'API du site est adroitement réalisée, je pense que le résultat final pourrait convenir à n'importe quel type de JdR ayant une structure approchant et pas seulement à un JdR Star Wars.   
 Je vois donc ce projet plutôt comme un site permettant l'hébergement de règles et la création de personnages d'un univers donné plutôt que véritablement quelque chose de spécifique à l'univers Star Wars. Cet univers licensié pourra donc être substitué au besoin.
 
-Pour vous faire une idée de ce que représente la charge de travail relative aux règles du jeu et à la création de personnage, je ne peux que vous inviter à consulter les règles du JdR rédigées par mes soins et [disponibles à cette adresse](https://www.google.com "Star Wars JdR - Tanguy Scholtes") ainsi qu'[un exemple de fiche de personnage](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=%2fADJ%2fPathfinder-RPG%2fPFSheet.pdf "Feuille de personnage - Pathfinder-fr") tirée du système "Pathfinder - Le Jeu de Rôle".
+Pour vous faire une idée de ce que représente la charge de travail relative aux règles du jeu et à la création de personnage, je ne peux que vous inviter à consulter les règles du JdR rédigées par mes soins et [disponibles à cette adresse](http://tanguyscholtes.be/StarWarsJDR/ "Star Wars JdR - Tanguy Scholtes") ainsi qu'[un exemple de fiche de personnage](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=%2fADJ%2fPathfinder-RPG%2fPFSheet.pdf "Feuille de personnage - Pathfinder-fr") tirée du système "Pathfinder - Le Jeu de Rôle".
 
 Ce projet me tiens vraiment à coeur car j'aime beucoup le JdR, j'en fais régulièrement et la possibilité de pouvoir consulter en ligne les règles d'un jeu (même fait-maison) ainsi que de pouvoir créer simplement sa fiche de personnage pour ce système sont des choses que j'ai souhaitéées à de nombreuses reprises. Et si c'est en mon pouvoir de les concrétiser, je souhaiterai m'y atteler.
-
-
+Pour ce qui est de la technologie, je souhaiterai utiliser Laravel pour tout ce que le framework apporte, notamment ses nombreux outils et la facilité de déploiement sur serveur. De même, je souhaiterai pouvoir utiliser une base de donnée en MySQL via PHPMyAdmin et Laravel le permet par défaut, ce qui rend le framework d'autant plus attrayant pour moi.
 
 ## Cahier des charges
 - Hébergement des règles du jeu
